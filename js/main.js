@@ -9,7 +9,7 @@
     inputsContainer.innerHTML = 'Loading...'
     resultContainer.innerHTML = 'Loading...'
 
-    csvFilePath = '../data/' + selectInvoiceType.value + ' ' + selectHP.value + '.csv'
+    csvFilePath = 'data/' + selectInvoiceType.value + ' ' + selectHP.value + '.csv'
     fetchFile(csvFilePath)
   }
 
