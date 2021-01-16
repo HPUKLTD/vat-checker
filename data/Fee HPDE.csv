@@ -1,0 +1,6 @@
+﻿Promoter is in / Artist is,German resident,EU Resident (not Germany),ROW Resident
+Germany,"T2 - German VAT chargeable at 19%, if artist is registered for German VAT","T3 - Charge subject to reverse charge for VAT, if artist is registered for VAT elsewhere in EU","T0 - no VAT charge/outside scope, unless artist is registered for German VAT (T2)"
+Elsewhere in EU (not Germany),"T3 - Charge subject to reverse charge for VAT, if artist is registered for VAT in Germany","T3 - Charge subject to reverse charge for VAT, if artist is registered for VAT elsewhere in EU.
+*If artist is registered in the same country as the promoter, local VAT may be applicable.","T0 - Outside scope of German VAT, 0%, unless artist is registered for VAT elsewhere in EU (T3).
+*If artist is registered for VAT in the same country as the promoter, local VAT may be applicable."
+Outside EU,"T0 - no VAT charge / outside scope of German VAT, 0%","T0 - no VAT charge / Outside scope of German VAT, 0%","T0 - no VAT charge / Outside scope of German VAT, 0%"

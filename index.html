@@ -1,0 +1,39 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>HP – VAT checker</title>
+  <meta name="description" content="VAT checker">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+
+  <div class="inputs">
+    <label for="hp">Representation agreement signed with</label>
+    <select name="hp" id="hp">
+      <option value="HPUK">HP UK</option>
+      <option value="HPDE">HP DE</option>
+    </select>
+
+    <label for="invoice-type">Invoice type</label>
+    <select name="invoice-type" id="invoice-type">
+      <option value="Comm">Commission invoice</option>
+      <option value="Fee">Fee invoice raised on behalf of artist</option>
+    </select>
+  </div>
+
+  <div id="inputs">Loading...</div>
+  <div id="result">Loading...</div>
+
+  <script src="js/vendor/csvtojson.min.js"></script>
+  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
