@@ -1,6 +1,6 @@
-﻿Promoter is in / Artist is,UK Resident,Resident outside of UK,
-UK,T1 - UK VAT chargeable at 20% if artist is registered for UK VAT,T3 - Promoter accounts for UK VAT under reverse charge,
-Outside UK,"T0 - no VAT charge / Outside scope of UK VAT, 0%","T0 - no VAT charge / Outside scope of UK VAT, 0%.
+﻿Promoter is in / Artist is,UK Resident (not VAT registered),UK Resident (VAT registered),Resident outside of UK
+UK,"T0 - no VAT charge / Outside scope of UK VAT, 0%",T1 - UK VAT chargeable at 20%,T3 - Promoter accounts for UK VAT under reverse charge
+Outside UK,"T0 - no VAT charge / Outside scope of UK VAT, 0%","T0 - no VAT charge / Outside scope of UK VAT, 0%","T0 - no VAT charge / Outside scope of UK VAT, 0%. 
 **If promoter is in the EU, they need to account for reverse charge at local rate (T3).
 ** If promoter is non-EU, then local rules may apply.
-**If the artist is registered in the same country as the promoter, local VAT may be applicable.",
+**If the artist is registered in the same country as the promoter, local VAT may be applicable."
